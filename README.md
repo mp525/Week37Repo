@@ -8,7 +8,7 @@
 ##Onsdag
 - onsdagsopgaverne ligger under mappen Onsdag.
 - OpgaveArray.js er færdiggjort undtagen den røde "k)"
-- OpgaveFunctions.js er færdiggjort undtagen alle røde opgaver.
+- OpgaveFunctions.js er færdiggjort. Har kan lavet den første af de røde.
 
 ##Torsdag og Fredag
 - Link til besvarelser : https://mparking.dk/devops-starter/
